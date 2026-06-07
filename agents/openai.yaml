@@ -1,0 +1,5 @@
+interface:
+  display_name: "Daily News Digest"
+  short_description: "Curated daily news digests by email"
+  default_prompt: "Use $daily-news-digest to create a recurring curated news digest with local archives and email delivery."
+
