@@ -1,0 +1,7 @@
+interface:
+  display_name: "Comment"
+  short_description: "Write market event commentaries"
+  default_prompt: "Use $comment to write a concise Chinese market event commentary with Markdown, Word, and email delivery."
+
+policy:
+  allow_implicit_invocation: true
